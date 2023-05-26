@@ -49,6 +49,18 @@ body {
   }
 
   .principal-aviso{
-    font-size: 14px;
+    font-size: 12px;
     color: var(--cinza-secundario);
+
+
+  }
+  .principal-imagem{ 
+    margin: 16px 0 32px 0;
+  
+  }
+  .principal-caixa{
+    margin:0 96px;
+  }
+
+
   }
