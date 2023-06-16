@@ -81,13 +81,13 @@ body {
    font-size: 48px;
 }
 
-,.secundaria-texto{
+.secundaria-texto{
    color: var(--cinza-secundario);
 }
 
 
   .secundaria-botao{
        display: inline-block;
-       margin-top:16px; ;
+       margin-top:16px; 
 
   }
